@@ -1,0 +1,14 @@
+,Tag,Count
+0,vegan gift,4
+1,vegan clothing,4
+2,herbivore shirt,3
+3,funny t shirt,2
+4,vegan t shirt,2
+5,vegan shirt,2
+6,vegetarian clothes,2
+7,vegan girl shirt,2
+8,animal lover shirt,2
+9,vegan tshirt,2
+10,vegan,2
+11,organic tshirt,2
+12,eco friendly,2
